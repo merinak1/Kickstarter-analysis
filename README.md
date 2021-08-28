@@ -39,5 +39,5 @@ The fact that there are no cancelled outcomes infers that plays are not cancelle
 It is noted that dataset do not have any data to indicate time took to reach goal for successful outcomes and if the campaign was cancelled, when it was cancellation. If those details are found it would have been easier to understand the patterns on of successful outcomes. Furthermore, the data do not have any information on how the campaign was executed to help understand factors for success or failure.
 
 ### Additional recommendation for graph
-It is recommended to create graph with outcomes based on goal by launch date to identify the likelihood of success based on launch dates. This will help futher refine the type of outcomes that is similar to Louise's campaign, goal and rollout period. 
+It is recommended to create graph with outcomes based on goal by launch date to identify the likelihood of success based on launch dates. This will help further refine the type of outcomes that is similar to Louise's campaign, goal and rollout period. 
 
